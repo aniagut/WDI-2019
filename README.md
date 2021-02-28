@@ -1,2 +1,3 @@
 # WDI-2019
-wiczenia z przedmiotu Wstęp do Informatyki
+Rozwiązania zadań z przedmiotu "Wstęp do Informatyki" realizowanego w trakcie I semestru Informatyki na AGH.
+
